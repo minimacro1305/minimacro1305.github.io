@@ -1,7 +1,7 @@
-.home {alignment: left; height: 50px; width: 50px;}
+.home {height: 50px; width: 50px;}
 p, ul {text-align: center; font-family: Georgia, serif}
 h1, h2, h3, h4, h5, h6 {text-align: center; font-family: Verdana, sans-serif; font-weight: bold; ; color: green}
 body {background-color: black}
-#mercer {width: 560px; height: 315px;frameborder: 0 }
+#mercer {width: 560px; height: 315px;}
 #infoGen {background-color: dimgrey; width: 70%; margin: auto}
 #infoMat {background-color: darkslategray; width: 70%; margin: auto}
