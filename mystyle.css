@@ -1,6 +1,6 @@
 p, ul {
     text-align: center;
-    font-family: Georgia, serif
+    font-family: Georgia, serif;
     color: white;
 }
 
@@ -92,7 +92,7 @@ header {
     color: white;
 }
 
-footer {
+footer p{
     padding: 20px;
     text-align: center;
     color: yellow;
