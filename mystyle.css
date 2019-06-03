@@ -33,12 +33,15 @@ body {
     background-color: darkslategray;
     width: 70%;
     margin: auto;
+    text-align: center;
 }
 
 #mercer {
+    max-width: 100%;
     width: 560px;
     height: 315px;
-    position: center;
+    position: relative;
+    border: none;
 }
 
 .navbar {
